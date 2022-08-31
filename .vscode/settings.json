@@ -1,0 +1,9 @@
+{
+	"makefile.launchConfigurations": [
+		{
+			"cwd": "/Users/dafienko/Documents/test",
+			"binaryPath": "/Users/dafienko/Documents/test/program",
+			"binaryArgs": []
+		}
+	]
+}
